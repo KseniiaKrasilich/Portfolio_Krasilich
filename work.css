@@ -1,0 +1,48 @@
+#example{
+  height:70vh;
+  background-size:cover;
+  background: linear-gradient(rgba(20,21,23,.3), rgba(20,21,23,1)), url('img/web_img_largeSize/black1.jpg');
+}
+.full{
+  max-width: 100%;
+}
+.navbar-light{
+  background: none;
+}
+
+.navbar-light.alt-color {
+    background-color: #141517 !important;
+}
+.topfont{
+  margin-top: 7em;
+  color: #2D2D2D;
+}
+
+#exampleB{
+  height:70vh;
+  background-size:cover;
+  background: linear-gradient(rgba(20,21,23,.3), rgba(20,21,23,1)), url('img/web_beer/white2.jpg');
+}
+#exampleLogo{
+  height:70vh;
+  background-size:cover;
+  background: linear-gradient(rgba(20,21,23,.3), rgba(20,21,23,1)), url('img/web_logo/black2.jpg');
+}
+#examplePoster{
+  height:70vh;
+  background-size:cover;
+  background: linear-gradient(rgba(20,21,23,.3), rgba(20,21,23,1)), url('img/web_poster/white2.jpg');
+}
+#exampleWeb{
+  height:70vh;
+  background-size:cover;
+  background: linear-gradient(rgba(20,21,23,.3), rgba(20,21,23,1)), url('img/website/black2.jpg');
+}
+#exampleSelf{
+  height:70vh;
+  background-size:cover;
+  background: linear-gradient(rgba(20,21,23,.3), rgba(20,21,23,1)), url('img/selfportrait/white2.jpg');
+}
+#sketch-holder{
+  margin-left: 5em;
+}
